@@ -1,6 +1,10 @@
 ;-------------------------------------------------------------------------------
 ; MSP430 Assembler Code Template for use with TI Code Composer Studio
 ;
+;	Lab 2 - Subroutines - "Cryptography"
+;	Gytenis Borusas, USAFA, 17 September 2014/ 18 September 2014
+;	Ece 382
+;	Instructor - Dr. George W. P. York
 ;
 ;-------------------------------------------------------------------------------
             .cdecls C,LIST,"msp430.h"       ; Include device header file
